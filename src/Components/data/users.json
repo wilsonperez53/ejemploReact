@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "password": "123",
+        "email": "gortiz0@mapy.cz"
+    },
+    {
+        "id": 2,
+        "password": "123",
+        "email": "w@gmail.com"
+    },
+    {
+        "id": 3,
+        "password": "123",
+        "email": "w1@gmail.com"
+    },
+    {
+        "id": 4,
+        "password": "123",
+        "email": "w2@gmail.com"
+    }
+]
